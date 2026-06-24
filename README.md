@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Closing the Loop
 A Unified Approach to State-Space Kalman Decomposition, Reduced Order Luenberger Observer Design and Optimal LQR Control with the aim of modelling the Furata Pendulum
 
@@ -11,4 +10,3 @@ A reduced-order Luenberger observer is then constructed to estimate detectable s
 
 To validate the theoretical design, the closed-loop dynamics are analyzed through eigenvalue inspection and phase portrait visualization. The frame
 work is further applied to a nonlinear benchmark system, the Furuta pendulum, where the effectiveness of the linearized control strategy is illustrated through animation. Finally, as an additional bonus on top of the mandatory requirement, the impact of stochastic disturbances is introduced through additive white Gaussian noise, providing insight into robustness and practical performance limitations.
->>>>>>> e196f089af42c45e5a6a5e28e75cb3d22b51c2c5
